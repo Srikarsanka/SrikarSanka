@@ -71,7 +71,7 @@
 ## 🎓 AI Powered Virtual Classroom
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=150&section=header&text=AI%20Virtual%20Classroom&fontSize=30&fontColor=ffffff" />
+  <img src="https://res.cloudinary.com/djha4r2ys/image/upload/v1774981405/orbit_zzz9h6.png" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 ✔ Automated attendance  
 ✔ Faculty & Student dashboards  
 
-🔗 Repo: https://github.com/SrikarSanka/AI-Virtual-Classroom  
+🔗 Repo: https://github.com/SrikarSanka/orbitai 
 🌐 Live: https://orbit-zqsz.vercel.app/
 
 ---
@@ -99,7 +99,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF -->
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="700"/>
+  <img src="https://res.cloudinary.com/djha4r2ys/image/upload/v1774981495/udbhava_mgtajf.png" width="700"/>
 </p>
 
 ⚙ **Tech Stack:** Angular • Node.js • MongoDB • JWT  
