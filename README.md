@@ -76,8 +76,7 @@
 
 <p align="center">
   <!-- Replace this GIF with your own screen recording -->
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="700"/>
-</p>
+
 
 🧠 **Tech Stack:** WebRTC • Socket.io • MongoDB • AI Face Detection  
 
