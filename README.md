@@ -146,5 +146,4 @@
 <p align="center">
   <b>“I don’t just write code. I engineer systems.”</b> 🚀
 </p>
-today notes 
 
